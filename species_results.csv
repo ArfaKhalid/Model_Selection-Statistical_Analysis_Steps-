@@ -1,0 +1,5 @@
+Measure,Value,Num DF,Den DF,F Value,Pr > F
+Wilks' lambda,0.0234,8.0,288.0,199.1453,0.0
+Pillai's trace,1.1919,8.0,290.0,53.4665,0.0
+Hotelling-Lawley trace,32.4773,8.0,203.4024,582.197,0.0
+Roy's greatest root,32.1919,4.0,145.0,1166.9574,0.0
